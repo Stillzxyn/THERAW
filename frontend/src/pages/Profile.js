@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import axios from 'axios';
 
 function Profile({ token, user, darkMode }) {
@@ -36,12 +36,7 @@ function Profile({ token, user, darkMode }) {
     successText: darkMode ? '#66bb6a' : '#000'
   };
 
-  useEffect(() => {
-    fetchProfile();
-    fetchAddresses();
-  }, []);
-
-  const fetchProfile = async () => {
+  const fetchProfile = useCallback(async () => {
     try {
       const res = await axios.get('/api/users/profile', {
         headers: { Authorization: `Bearer ${token}` }
@@ -53,9 +48,9 @@ function Profile({ token, user, darkMode }) {
     } finally {
       setLoading(false);
     }
-  };
+  }, [token]);
 
-  const fetchAddresses = async () => {
+  const fetchAddresses = useCallback(async () => {
     try {
       const res = await axios.get('/api/addresses', {
         headers: { Authorization: `Bearer ${token}` }
@@ -64,7 +59,12 @@ function Profile({ token, user, darkMode }) {
     } catch (err) {
       console.log('No addresses found');
     }
-  };
+  }, [token]);
+
+  useEffect(() => {
+    fetchProfile();
+    fetchAddresses();
+  }, [fetchProfile, fetchAddresses]);
 
   const handleSave = async (e) => {
     e.preventDefault();

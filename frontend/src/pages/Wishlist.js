@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 
@@ -18,15 +18,7 @@ function Wishlist({ token, darkMode }) {
     errorText: darkMode ? '#ff6b6b' : '#d32f2f'
   };
 
-  useEffect(() => {
-    if (!token) {
-      navigate('/login');
-      return;
-    }
-    fetchWishlist();
-  }, [token, navigate]);
-
-  const fetchWishlist = async () => {
+  const fetchWishlist = useCallback(async () => {
     try {
       console.log('Fetching wishlist');
       const res = await axios.get('/api/wishlist', {
@@ -41,7 +33,15 @@ function Wishlist({ token, darkMode }) {
     } finally {
       setLoading(false);
     }
-  };
+  }, [token]);
+
+  useEffect(() => {
+    if (!token) {
+      navigate('/login');
+      return;
+    }
+    fetchWishlist();
+  }, [token, navigate, fetchWishlist]);
 
   const handleRemoveFromWishlist = async (productId) => {
     try {

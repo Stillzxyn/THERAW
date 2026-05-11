@@ -1,19 +1,16 @@
-import React, { useState, useEffect } from 'react';
-import { useParams, useNavigate, useLocation } from 'react-router-dom';
+import React, { useState, useEffect, useCallback } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
 import axios from 'axios';
 
 function ProductDetail({ token, darkMode }) {
   const { id } = useParams();
-  const location = useLocation();
   const [product, setProduct] = useState(null);
-  const [quantity, setQuantity] = useState(1);
   const [selectedColor, setSelectedColor] = useState('');
   const [selectedSize, setSelectedSize] = useState('');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [success, setSuccess] = useState('');
   const [selectedImage, setSelectedImage] = useState('');
-  const [expandedSection, setExpandedSection] = useState(null);
   const [isInWishlist, setIsInWishlist] = useState(false);
   const [relatedProducts, setRelatedProducts] = useState([]);
   const [userWishlist, setUserWishlist] = useState([]);
@@ -31,14 +28,7 @@ function ProductDetail({ token, darkMode }) {
     successText: darkMode ? '#66bb6a' : '#000'
   };
 
-  useEffect(() => {
-    fetchProduct();
-    if (token) {
-      fetchUserWishlist();
-    }
-  }, [id, token]);
-
-  const fetchProduct = async () => {
+  const fetchProduct = useCallback(async () => {
     try {
       console.log('Fetching product with ID:', id);
       console.log('Request URL: /api/products/' + id);
@@ -63,9 +53,9 @@ function ProductDetail({ token, darkMode }) {
     } finally {
       setLoading(false);
     }
-  };
+  }, [id]);
 
-  const fetchUserWishlist = async () => {
+  const fetchUserWishlist = useCallback(async () => {
     try {
       const res = await axios.get('/api/wishlist', {
         headers: { Authorization: `Bearer ${token}` }
@@ -75,7 +65,14 @@ function ProductDetail({ token, darkMode }) {
     } catch (err) {
       console.error('Error fetching wishlist:', err);
     }
-  };
+  }, [token]);
+
+  useEffect(() => {
+    fetchProduct();
+    if (token) {
+      fetchUserWishlist();
+    }
+  }, [fetchProduct, fetchUserWishlist, token]);
 
   const checkWishlistStatus = (productId) => {
     const isInWish = userWishlist.some(item => item.productId === productId);
@@ -86,7 +83,7 @@ function ProductDetail({ token, darkMode }) {
     if (product && userWishlist.length > 0) {
       checkWishlistStatus(product._id);
     }
-  }, [userWishlist, product]);
+  }, [userWishlist, product, checkWishlistStatus]);
 
   const handleWishlistToggle = async () => {
     if (!token) {
