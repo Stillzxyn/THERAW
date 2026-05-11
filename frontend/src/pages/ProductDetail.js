@@ -5,6 +5,7 @@ import axios from 'axios';
 function ProductDetail({ token, darkMode }) {
   const { id } = useParams();
   const [product, setProduct] = useState(null);
+  const [quantity, setQuantity] = useState(1);
   const [selectedColor, setSelectedColor] = useState('');
   const [selectedSize, setSelectedSize] = useState('');
   const [loading, setLoading] = useState(true);
