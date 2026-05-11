@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 
@@ -40,12 +40,7 @@ function Checkout({ token, darkMode }) {
     successText: darkMode ? '#66bb6a' : '#000'
   };
 
-  useEffect(() => {
-    fetchCart();
-    fetchSavedAddresses();
-  }, []);
-
-  const fetchCart = async () => {
+  const fetchCart = useCallback(async () => {
     try {
       const res = await axios.get('/api/cart', {
         headers: { Authorization: `Bearer ${token}` }
@@ -56,9 +51,9 @@ function Checkout({ token, darkMode }) {
     } finally {
       setLoading(false);
     }
-  };
+  }, [token]);
 
-  const fetchSavedAddresses = async () => {
+  const fetchSavedAddresses = useCallback(async () => {
     try {
       const res = await axios.get('/api/addresses', {
         headers: { Authorization: `Bearer ${token}` }
@@ -67,7 +62,12 @@ function Checkout({ token, darkMode }) {
     } catch (err) {
       console.log('No saved addresses found');
     }
-  };
+  }, [token]);
+
+  useEffect(() => {
+    fetchCart();
+    fetchSavedAddresses();
+  }, [fetchCart, fetchSavedAddresses]);
 
   const handleSelectAddress = (address) => {
     setSelectedAddressId(address._id);
@@ -174,7 +174,7 @@ function Checkout({ token, darkMode }) {
       console.log('Total field value:', requestPayload.total);
       console.log('Type of total:', typeof requestPayload.total);
 
-      const res = await axios.post('/api/orders/checkout', requestPayload, {
+      await axios.post('/api/orders/checkout', requestPayload, {
         headers: { Authorization: `Bearer ${token}` }
       });
       setSuccess('Order placed successfully!');

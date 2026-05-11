@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import axios from 'axios';
 
 function OrderHistory({ token, darkMode }) {
@@ -16,11 +16,7 @@ function OrderHistory({ token, darkMode }) {
     errorText: darkMode ? '#ff6b6b' : '#d32f2f'
   };
 
-  useEffect(() => {
-    fetchOrders();
-  }, []);
-
-  const fetchOrders = async () => {
+  const fetchOrders = useCallback(async () => {
     try {
       const res = await axios.get('/api/orders', {
         headers: { Authorization: `Bearer ${token}` }
@@ -35,7 +31,11 @@ function OrderHistory({ token, darkMode }) {
     } finally {
       setLoading(false);
     }
-  };
+  }, [token]);
+
+  useEffect(() => {
+    fetchOrders();
+  }, [fetchOrders]);
 
   if (loading) return <div style={{ padding: '60px 50px', textAlign: 'center', fontFamily: 'Helvetica, Arial, sans-serif', backgroundColor: colors.bg, color: colors.text, transition: 'background-color 0.3s ease, color 0.3s ease' }}>Loading orders...</div>;
 

@@ -29,6 +29,23 @@ function ProductDetail({ token, darkMode }) {
     successText: darkMode ? '#66bb6a' : '#000'
   };
 
+  const fetchRelatedProducts = useCallback(async (gender, category) => {
+    try {
+      const res = await axios.get('/api/products');
+      const related = res.data
+        .filter(p => p.gender === gender && p.category === category && p._id !== id)
+        .slice(0, 4);
+      setRelatedProducts(related);
+    } catch (err) {
+      console.log('Error fetching related products');
+    }
+  }, [id]);
+
+  const checkWishlistStatus = useCallback((productId) => {
+    const isInWish = userWishlist.some(item => item.productId === productId);
+    setIsInWishlist(isInWish);
+  }, [userWishlist]);
+
   const fetchProduct = useCallback(async () => {
     try {
       console.log('Fetching product with ID:', id);
@@ -54,7 +71,7 @@ function ProductDetail({ token, darkMode }) {
     } finally {
       setLoading(false);
     }
-  }, [id]);
+  }, [id, fetchRelatedProducts, checkWishlistStatus]);
 
   const fetchUserWishlist = useCallback(async () => {
     try {
@@ -74,11 +91,6 @@ function ProductDetail({ token, darkMode }) {
       fetchUserWishlist();
     }
   }, [fetchProduct, fetchUserWishlist, token]);
-
-  const checkWishlistStatus = (productId) => {
-    const isInWish = userWishlist.some(item => item.productId === productId);
-    setIsInWishlist(isInWish);
-  };
 
   useEffect(() => {
     if (product && userWishlist.length > 0) {
@@ -121,17 +133,6 @@ function ProductDetail({ token, darkMode }) {
     }
   };
 
-  const fetchRelatedProducts = async (gender, category) => {
-    try {
-      const res = await axios.get('/api/products');
-      const related = res.data
-        .filter(p => p.gender === gender && p.category === category && p._id !== id)
-        .slice(0, 4);
-      setRelatedProducts(related);
-    } catch (err) {
-      console.log('Error fetching related products');
-    }
-  };
 
   const handleAddToCart = async (e) => {
     e.preventDefault();
@@ -457,6 +458,38 @@ function ProductDetail({ token, darkMode }) {
                 </option>
               ))}
             </select>
+          </div>
+
+          {/* Quantity Input */}
+          <div style={{ marginBottom: '30px' }}>
+            <label style={{
+              display: 'block',
+              fontSize: '11px',
+              fontWeight: '400',
+              letterSpacing: '0.5px',
+              textTransform: 'uppercase',
+              color: colors.textLight,
+              marginBottom: '10px'
+            }}>
+              QUANTITY
+            </label>
+            <input
+              type="number"
+              min="1"
+              value={quantity}
+              onChange={(e) => setQuantity(parseInt(e.target.value) || 1)}
+              style={{
+                width: '100%',
+                padding: '10px 12px',
+                border: `1px solid ${colors.border}`,
+                fontSize: '12px',
+                fontFamily: 'Helvetica, Arial, sans-serif',
+                fontWeight: '300',
+                color: colors.text,
+                backgroundColor: colors.bg,
+                boxSizing: 'border-box'
+              }}
+            />
           </div>
 
           {/* Add to Cart Button */}

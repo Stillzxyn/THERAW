@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
 
@@ -18,11 +18,7 @@ function Cart({ token, darkMode }) {
     errorText: darkMode ? '#ff6b6b' : '#d32f2f'
   };
 
-  useEffect(() => {
-    fetchCart();
-  }, []);
-
-  const fetchCart = async () => {
+  const fetchCart = useCallback(async () => {
     try {
       const res = await axios.get('/api/cart', {
         headers: { Authorization: `Bearer ${token}` }
@@ -35,7 +31,11 @@ function Cart({ token, darkMode }) {
     } finally {
       setLoading(false);
     }
-  };
+  }, [token]);
+
+  useEffect(() => {
+    fetchCart();
+  }, [fetchCart]);
 
   const handleRemoveItem = async (productId) => {
     try {

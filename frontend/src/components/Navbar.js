@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
 
@@ -6,16 +6,7 @@ function Navbar({ user, onLogout, onGenderClick, token, darkMode, setDarkMode })
   const [cartCount, setCartCount] = useState(0);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
-  useEffect(() => {
-    if (token) {
-      fetchCartCount();
-    } else {
-      // Reset cart count when user logs out
-      setCartCount(0);
-    }
-  }, [token]);
-
-  const fetchCartCount = async () => {
+  const fetchCartCount = useCallback(async () => {
     try {
       const res = await axios.get('/api/cart', {
         headers: { Authorization: `Bearer ${token}` }
@@ -25,7 +16,16 @@ function Navbar({ user, onLogout, onGenderClick, token, darkMode, setDarkMode })
       console.error('Error fetching cart count:', err);
       setCartCount(0);
     }
-  };
+  }, [token]);
+
+  useEffect(() => {
+    if (token) {
+      fetchCartCount();
+    } else {
+      // Reset cart count when user logs out
+      setCartCount(0);
+    }
+  }, [token, fetchCartCount]);
 
   const linkStyle = {
     fontSize: '11px',

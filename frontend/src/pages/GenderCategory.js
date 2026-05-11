@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { useParams, useNavigate, useSearchParams } from 'react-router-dom';
 import axios from 'axios';
 
@@ -23,17 +23,7 @@ function GenderCategory({ darkMode }) {
     hoverOpacity: 0.9
   };
 
-  useEffect(() => {
-    fetchProducts();
-  }, [gender]);
-
-  // Update selected category when URL query param changes
-  useEffect(() => {
-    const category = searchParams.get('category');
-    setSelectedCategory(category ? category.toUpperCase() : 'ALL');
-  }, [searchParams]);
-
-  const fetchProducts = async () => {
+  const fetchProducts = useCallback(async () => {
     try {
       const res = await axios.get('/api/products');
       // Filter by gender
@@ -50,7 +40,17 @@ function GenderCategory({ darkMode }) {
     } finally {
       setLoading(false);
     }
-  };
+  }, [gender]);
+
+  useEffect(() => {
+    fetchProducts();
+  }, [fetchProducts]);
+
+  // Update selected category when URL query param changes
+  useEffect(() => {
+    const category = searchParams.get('category');
+    setSelectedCategory(category ? category.toUpperCase() : 'ALL');
+  }, [searchParams]);
 
   const subCategoryItems = [
     'Top',

@@ -1,6 +1,4 @@
-import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
-import axios from 'axios';
+import React from 'react';
 
 function Home({ showSidebar, setShowSidebar, setSidebarGender, darkMode }) {
 
