@@ -1,0 +1,4122 @@
+[
+  {
+    "_id": "M-TOP-01",
+    "sku": "M-TOP-01-5912",
+    "name": "Double-faced Linen Top",
+    "slug": "double-faced-linen-top-m-top-01",
+    "price": 1250,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A double-faced silhouette crafted from premium linen.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-top-01.jpg",
+      "gallery": [
+        "/products/m-top-01-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 14
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-TOP-02",
+    "sku": "M-TOP-02-5496",
+    "name": "Technical Calfskin Top",
+    "slug": "technical-calfskin-top-m-top-02",
+    "price": 1500,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A technical silhouette crafted from premium calfskin.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-top-02.jpg",
+      "gallery": [
+        "/products/m-top-02-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 11
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-TOP-03",
+    "sku": "M-TOP-03-8905",
+    "name": "Double-faced Cotton Poplin Top",
+    "slug": "double-faced-cotton-poplin-top-m-top-03",
+    "price": 1650,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A double-faced silhouette crafted from premium cotton poplin.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-top-03.jpg",
+      "gallery": [
+        "/products/m-top-03-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 5
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-TOP-04",
+    "sku": "M-TOP-04-5896",
+    "name": "Structured Cotton Poplin Top",
+    "slug": "structured-cotton-poplin-top-m-top-04",
+    "price": 1450,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A structured silhouette crafted from premium cotton poplin.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-top-04.jpg",
+      "gallery": [
+        "/products/m-top-04-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 12
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-TOP-05",
+    "sku": "M-TOP-05-6518",
+    "name": "Structured Calfskin Top",
+    "slug": "structured-calfskin-top-m-top-05",
+    "price": 1400,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A structured silhouette crafted from premium calfskin.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-top-05.jpg",
+      "gallery": [
+        "/products/m-top-05-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 15
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-TOP-06",
+    "sku": "M-TOP-06-5315",
+    "name": "Minimal Nappa Leather Top",
+    "slug": "minimal-nappa-leather-top-m-top-06",
+    "price": 1450,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium nappa leather.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Nappa Leather",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-top-06.jpg",
+      "gallery": [
+        "/products/m-top-06-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 9
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-TOP-07",
+    "sku": "M-TOP-07-2719",
+    "name": "Oversized Nappa Leather Top",
+    "slug": "oversized-nappa-leather-top-m-top-07",
+    "price": 800,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A oversized silhouette crafted from premium nappa leather.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Nappa Leather",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-top-07.jpg",
+      "gallery": [
+        "/products/m-top-07-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Oatmeal",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 15
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-TOP-08",
+    "sku": "M-TOP-08-2450",
+    "name": "Oversized Calfskin Top",
+    "slug": "oversized-calfskin-top-m-top-08",
+    "price": 1000,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A oversized silhouette crafted from premium calfskin.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-top-08.jpg",
+      "gallery": [
+        "/products/m-top-08-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 15
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-TOP-09",
+    "sku": "M-TOP-09-5829",
+    "name": "Fine Calfskin Top",
+    "slug": "fine-calfskin-top-m-top-09",
+    "price": 800,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium calfskin.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-top-09.jpg",
+      "gallery": [
+        "/products/m-top-09-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Taupe",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 8
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-TOP-10",
+    "sku": "M-TOP-10-3349",
+    "name": "Structured Virgin Wool Top",
+    "slug": "structured-virgin-wool-top-m-top-10",
+    "price": 1350,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A structured silhouette crafted from premium virgin wool.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Virgin Wool",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-top-10.jpg",
+      "gallery": [
+        "/products/m-top-10-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BOT-01",
+    "sku": "M-BOT-01-7427",
+    "name": "Fine Silk Bottom",
+    "slug": "fine-silk-bottom-m-bot-01",
+    "price": 1600,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium silk.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Silk",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bot-01.jpg",
+      "gallery": [
+        "/products/m-bot-01-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Espresso",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 8
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BOT-02",
+    "sku": "M-BOT-02-9349",
+    "name": "Fine Nappa Leather Bottom",
+    "slug": "fine-nappa-leather-bottom-m-bot-02",
+    "price": 1900,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium nappa leather.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Nappa Leather",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bot-02.jpg",
+      "gallery": [
+        "/products/m-bot-02-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 4
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BOT-03",
+    "sku": "M-BOT-03-3838",
+    "name": "Minimal Cotton Poplin Bottom",
+    "slug": "minimal-cotton-poplin-bottom-m-bot-03",
+    "price": 1950,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium cotton poplin.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bot-03.jpg",
+      "gallery": [
+        "/products/m-bot-03-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 13
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BOT-04",
+    "sku": "M-BOT-04-6507",
+    "name": "Structured Linen Bottom",
+    "slug": "structured-linen-bottom-m-bot-04",
+    "price": 1800,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A structured silhouette crafted from premium linen.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bot-04.jpg",
+      "gallery": [
+        "/products/m-bot-04-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 5
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BOT-05",
+    "sku": "M-BOT-05-8619",
+    "name": "Relaxed Cotton Poplin Bottom",
+    "slug": "relaxed-cotton-poplin-bottom-m-bot-05",
+    "price": 1750,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A relaxed silhouette crafted from premium cotton poplin.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bot-05.jpg",
+      "gallery": [
+        "/products/m-bot-05-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 8
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BOT-06",
+    "sku": "M-BOT-06-9277",
+    "name": "Technical Cashmere Bottom",
+    "slug": "technical-cashmere-bottom-m-bot-06",
+    "price": 2050,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A technical silhouette crafted from premium cashmere.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cashmere",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bot-06.jpg",
+      "gallery": [
+        "/products/m-bot-06-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 12
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BOT-07",
+    "sku": "M-BOT-07-5890",
+    "name": "Relaxed Virgin Wool Bottom",
+    "slug": "relaxed-virgin-wool-bottom-m-bot-07",
+    "price": 1650,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A relaxed silhouette crafted from premium virgin wool.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Virgin Wool",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bot-07.jpg",
+      "gallery": [
+        "/products/m-bot-07-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Taupe",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 15
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BOT-08",
+    "sku": "M-BOT-08-5572",
+    "name": "Soft Calfskin Bottom",
+    "slug": "soft-calfskin-bottom-m-bot-08",
+    "price": 2000,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A soft silhouette crafted from premium calfskin.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bot-08.jpg",
+      "gallery": [
+        "/products/m-bot-08-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Espresso",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 12
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BOT-09",
+    "sku": "M-BOT-09-5835",
+    "name": "Structured Cotton Poplin Bottom",
+    "slug": "structured-cotton-poplin-bottom-m-bot-09",
+    "price": 2150,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A structured silhouette crafted from premium cotton poplin.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bot-09.jpg",
+      "gallery": [
+        "/products/m-bot-09-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 4
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BOT-10",
+    "sku": "M-BOT-10-2836",
+    "name": "Technical Suede Bottom",
+    "slug": "technical-suede-bottom-m-bot-10",
+    "price": 1650,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A technical silhouette crafted from premium suede.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Suede",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bot-10.jpg",
+      "gallery": [
+        "/products/m-bot-10-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 9
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-SHO-01",
+    "sku": "M-SHO-01-2007",
+    "name": "Tailored Calfskin Shoe",
+    "slug": "tailored-calfskin-shoe-m-sho-01",
+    "price": 1950,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A tailored silhouette crafted from premium calfskin.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-sho-01.jpg",
+      "gallery": [
+        "/products/m-sho-01-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Espresso",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 5
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-SHO-02",
+    "sku": "M-SHO-02-5154",
+    "name": "Double-faced Cashmere Shoe",
+    "slug": "double-faced-cashmere-shoe-m-sho-02",
+    "price": 1300,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A double-faced silhouette crafted from premium cashmere.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cashmere",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-sho-02.jpg",
+      "gallery": [
+        "/products/m-sho-02-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 15
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-SHO-03",
+    "sku": "M-SHO-03-7987",
+    "name": "Minimal Suede Shoe",
+    "slug": "minimal-suede-shoe-m-sho-03",
+    "price": 1500,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium suede.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Suede",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-sho-03.jpg",
+      "gallery": [
+        "/products/m-sho-03-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Taupe",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 15
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-SHO-04",
+    "sku": "M-SHO-04-1682",
+    "name": "Fine Virgin Wool Shoe",
+    "slug": "fine-virgin-wool-shoe-m-sho-04",
+    "price": 1250,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium virgin wool.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Virgin Wool",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-sho-04.jpg",
+      "gallery": [
+        "/products/m-sho-04-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 3
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-SHO-05",
+    "sku": "M-SHO-05-8172",
+    "name": "Technical Linen Shoe",
+    "slug": "technical-linen-shoe-m-sho-05",
+    "price": 1400,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A technical silhouette crafted from premium linen.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-sho-05.jpg",
+      "gallery": [
+        "/products/m-sho-05-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Espresso",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 7
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-SHO-06",
+    "sku": "M-SHO-06-9815",
+    "name": "Fine Suede Shoe",
+    "slug": "fine-suede-shoe-m-sho-06",
+    "price": 1100,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium suede.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Suede",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-sho-06.jpg",
+      "gallery": [
+        "/products/m-sho-06-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Oatmeal",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 4
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-SHO-07",
+    "sku": "M-SHO-07-8266",
+    "name": "Soft Cashmere Shoe",
+    "slug": "soft-cashmere-shoe-m-sho-07",
+    "price": 1650,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A soft silhouette crafted from premium cashmere.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cashmere",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-sho-07.jpg",
+      "gallery": [
+        "/products/m-sho-07-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 15
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-SHO-08",
+    "sku": "M-SHO-08-4650",
+    "name": "Relaxed Silk Shoe",
+    "slug": "relaxed-silk-shoe-m-sho-08",
+    "price": 1600,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A relaxed silhouette crafted from premium silk.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Silk",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-sho-08.jpg",
+      "gallery": [
+        "/products/m-sho-08-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 10
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-SHO-09",
+    "sku": "M-SHO-09-9896",
+    "name": "Fine Suede Shoe",
+    "slug": "fine-suede-shoe-m-sho-09",
+    "price": 1250,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium suede.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Suede",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-sho-09.jpg",
+      "gallery": [
+        "/products/m-sho-09-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Espresso",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 10
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-SHO-10",
+    "sku": "M-SHO-10-3652",
+    "name": "Double-faced Suede Shoe",
+    "slug": "double-faced-suede-shoe-m-sho-10",
+    "price": 950,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A double-faced silhouette crafted from premium suede.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Suede",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-sho-10.jpg",
+      "gallery": [
+        "/products/m-sho-10-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 5
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BAG-01",
+    "sku": "M-BAG-01-3667",
+    "name": "Fine Silk Bag",
+    "slug": "fine-silk-bag-m-bag-01",
+    "price": 3650,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium silk.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Silk",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bag-01.jpg",
+      "gallery": [
+        "/products/m-bag-01-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 10
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BAG-02",
+    "sku": "M-BAG-02-9893",
+    "name": "Minimal Cotton Poplin Bag",
+    "slug": "minimal-cotton-poplin-bag-m-bag-02",
+    "price": 4450,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium cotton poplin.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bag-02.jpg",
+      "gallery": [
+        "/products/m-bag-02-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Oatmeal",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 14
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BAG-03",
+    "sku": "M-BAG-03-4795",
+    "name": "Minimal Cotton Poplin Bag",
+    "slug": "minimal-cotton-poplin-bag-m-bag-03",
+    "price": 3800,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium cotton poplin.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bag-03.jpg",
+      "gallery": [
+        "/products/m-bag-03-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 10
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BAG-04",
+    "sku": "M-BAG-04-6971",
+    "name": "Minimal Cotton Poplin Bag",
+    "slug": "minimal-cotton-poplin-bag-m-bag-04",
+    "price": 4250,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium cotton poplin.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bag-04.jpg",
+      "gallery": [
+        "/products/m-bag-04-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Taupe",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 12
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BAG-05",
+    "sku": "M-BAG-05-1496",
+    "name": "Classic Suede Bag",
+    "slug": "classic-suede-bag-m-bag-05",
+    "price": 4100,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A classic silhouette crafted from premium suede.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Suede",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bag-05.jpg",
+      "gallery": [
+        "/products/m-bag-05-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 3
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BAG-06",
+    "sku": "M-BAG-06-8978",
+    "name": "Soft Silk Bag",
+    "slug": "soft-silk-bag-m-bag-06",
+    "price": 3800,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A soft silhouette crafted from premium silk.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Silk",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bag-06.jpg",
+      "gallery": [
+        "/products/m-bag-06-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 9
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BAG-07",
+    "sku": "M-BAG-07-5450",
+    "name": "Soft Nappa Leather Bag",
+    "slug": "soft-nappa-leather-bag-m-bag-07",
+    "price": 4400,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A soft silhouette crafted from premium nappa leather.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Nappa Leather",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bag-07.jpg",
+      "gallery": [
+        "/products/m-bag-07-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BAG-08",
+    "sku": "M-BAG-08-6419",
+    "name": "Classic Linen Bag",
+    "slug": "classic-linen-bag-m-bag-08",
+    "price": 4300,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A classic silhouette crafted from premium linen.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bag-08.jpg",
+      "gallery": [
+        "/products/m-bag-08-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 14
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BAG-09",
+    "sku": "M-BAG-09-5453",
+    "name": "Double-faced Suede Bag",
+    "slug": "double-faced-suede-bag-m-bag-09",
+    "price": 4150,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A double-faced silhouette crafted from premium suede.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Suede",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bag-09.jpg",
+      "gallery": [
+        "/products/m-bag-09-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-BAG-10",
+    "sku": "M-BAG-10-4413",
+    "name": "Soft Linen Bag",
+    "slug": "soft-linen-bag-m-bag-10",
+    "price": 3650,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A soft silhouette crafted from premium linen.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-bag-10.jpg",
+      "gallery": [
+        "/products/m-bag-10-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Espresso",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 8
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-ACC-01",
+    "sku": "M-ACC-01-5584",
+    "name": "Relaxed Calfskin Item",
+    "slug": "relaxed-calfskin-item-m-acc-01",
+    "price": 950,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A relaxed silhouette crafted from premium calfskin.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-acc-01.jpg",
+      "gallery": [
+        "/products/m-acc-01-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 8
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-ACC-02",
+    "sku": "M-ACC-02-6490",
+    "name": "Double-faced Calfskin Item",
+    "slug": "double-faced-calfskin-item-m-acc-02",
+    "price": 800,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A double-faced silhouette crafted from premium calfskin.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-acc-02.jpg",
+      "gallery": [
+        "/products/m-acc-02-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 10
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-ACC-03",
+    "sku": "M-ACC-03-4958",
+    "name": "Tailored Nappa Leather Item",
+    "slug": "tailored-nappa-leather-item-m-acc-03",
+    "price": 500,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A tailored silhouette crafted from premium nappa leather.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Nappa Leather",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-acc-03.jpg",
+      "gallery": [
+        "/products/m-acc-03-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 7
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-ACC-04",
+    "sku": "M-ACC-04-4205",
+    "name": "Fine Calfskin Item",
+    "slug": "fine-calfskin-item-m-acc-04",
+    "price": 1050,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium calfskin.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-acc-04.jpg",
+      "gallery": [
+        "/products/m-acc-04-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Taupe",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 9
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-ACC-05",
+    "sku": "M-ACC-05-6435",
+    "name": "Relaxed Virgin Wool Item",
+    "slug": "relaxed-virgin-wool-item-m-acc-05",
+    "price": 1350,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A relaxed silhouette crafted from premium virgin wool.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Virgin Wool",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-acc-05.jpg",
+      "gallery": [
+        "/products/m-acc-05-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 9
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-ACC-06",
+    "sku": "M-ACC-06-8605",
+    "name": "Technical Nappa Leather Item",
+    "slug": "technical-nappa-leather-item-m-acc-06",
+    "price": 1150,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A technical silhouette crafted from premium nappa leather.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Nappa Leather",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-acc-06.jpg",
+      "gallery": [
+        "/products/m-acc-06-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Oatmeal",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 6
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-ACC-07",
+    "sku": "M-ACC-07-9242",
+    "name": "Oversized Calfskin Item",
+    "slug": "oversized-calfskin-item-m-acc-07",
+    "price": 400,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A oversized silhouette crafted from premium calfskin.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-acc-07.jpg",
+      "gallery": [
+        "/products/m-acc-07-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 14
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-ACC-08",
+    "sku": "M-ACC-08-7077",
+    "name": "Tailored Cotton Poplin Item",
+    "slug": "tailored-cotton-poplin-item-m-acc-08",
+    "price": 750,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A tailored silhouette crafted from premium cotton poplin.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-acc-08.jpg",
+      "gallery": [
+        "/products/m-acc-08-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 10
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-ACC-09",
+    "sku": "M-ACC-09-3652",
+    "name": "Technical Linen Item",
+    "slug": "technical-linen-item-m-acc-09",
+    "price": 600,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A technical silhouette crafted from premium linen.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-acc-09.jpg",
+      "gallery": [
+        "/products/m-acc-09-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 11
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "M-ACC-10",
+    "sku": "M-ACC-10-1893",
+    "name": "Technical Silk Item",
+    "slug": "technical-silk-item-m-acc-10",
+    "price": 550,
+    "currency": "USD",
+    "gender": "MEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A technical silhouette crafted from premium silk.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Silk",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/m-acc-10.jpg",
+      "gallery": [
+        "/products/m-acc-10-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 11
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-TOP-01",
+    "sku": "W-TOP-01-8020",
+    "name": "Relaxed Cashmere Top",
+    "slug": "relaxed-cashmere-top-w-top-01",
+    "price": 1400,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A relaxed silhouette crafted from premium cashmere.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cashmere",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-top-01.jpg",
+      "gallery": [
+        "/products/w-top-01-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 6
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-TOP-02",
+    "sku": "W-TOP-02-3005",
+    "name": "Tailored Linen Top",
+    "slug": "tailored-linen-top-w-top-02",
+    "price": 1000,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A tailored silhouette crafted from premium linen.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-top-02.jpg",
+      "gallery": [
+        "/products/w-top-02-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 6
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-TOP-03",
+    "sku": "W-TOP-03-7810",
+    "name": "Minimal Nappa Leather Top",
+    "slug": "minimal-nappa-leather-top-w-top-03",
+    "price": 1800,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium nappa leather.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Nappa Leather",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-top-03.jpg",
+      "gallery": [
+        "/products/w-top-03-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Oatmeal",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 14
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-TOP-04",
+    "sku": "W-TOP-04-9927",
+    "name": "Relaxed Suede Top",
+    "slug": "relaxed-suede-top-w-top-04",
+    "price": 1800,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A relaxed silhouette crafted from premium suede.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Suede",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-top-04.jpg",
+      "gallery": [
+        "/products/w-top-04-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 8
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-TOP-05",
+    "sku": "W-TOP-05-4650",
+    "name": "Structured Virgin Wool Top",
+    "slug": "structured-virgin-wool-top-w-top-05",
+    "price": 950,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A structured silhouette crafted from premium virgin wool.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Virgin Wool",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-top-05.jpg",
+      "gallery": [
+        "/products/w-top-05-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 6
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-TOP-06",
+    "sku": "W-TOP-06-5571",
+    "name": "Minimal Calfskin Top",
+    "slug": "minimal-calfskin-top-w-top-06",
+    "price": 1650,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium calfskin.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-top-06.jpg",
+      "gallery": [
+        "/products/w-top-06-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 6
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-TOP-07",
+    "sku": "W-TOP-07-3872",
+    "name": "Classic Virgin Wool Top",
+    "slug": "classic-virgin-wool-top-w-top-07",
+    "price": 1150,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A classic silhouette crafted from premium virgin wool.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Virgin Wool",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-top-07.jpg",
+      "gallery": [
+        "/products/w-top-07-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 8
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-TOP-08",
+    "sku": "W-TOP-08-5908",
+    "name": "Relaxed Linen Top",
+    "slug": "relaxed-linen-top-w-top-08",
+    "price": 1400,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A relaxed silhouette crafted from premium linen.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-top-08.jpg",
+      "gallery": [
+        "/products/w-top-08-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Espresso",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 15
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-TOP-09",
+    "sku": "W-TOP-09-6579",
+    "name": "Minimal Linen Top",
+    "slug": "minimal-linen-top-w-top-09",
+    "price": 1250,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium linen.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-top-09.jpg",
+      "gallery": [
+        "/products/w-top-09-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 6
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-TOP-10",
+    "sku": "W-TOP-10-3192",
+    "name": "Oversized Linen Top",
+    "slug": "oversized-linen-top-w-top-10",
+    "price": 900,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "TOPS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A oversized silhouette crafted from premium linen.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-top-10.jpg",
+      "gallery": [
+        "/products/w-top-10-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 5
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BOT-01",
+    "sku": "W-BOT-01-7522",
+    "name": "Double-faced Suede Bottom",
+    "slug": "double-faced-suede-bottom-w-bot-01",
+    "price": 1250,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A double-faced silhouette crafted from premium suede.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Suede",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bot-01.jpg",
+      "gallery": [
+        "/products/w-bot-01-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Taupe",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 13
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BOT-02",
+    "sku": "W-BOT-02-7941",
+    "name": "Double-faced Silk Bottom",
+    "slug": "double-faced-silk-bottom-w-bot-02",
+    "price": 2100,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A double-faced silhouette crafted from premium silk.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Silk",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bot-02.jpg",
+      "gallery": [
+        "/products/w-bot-02-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Oatmeal",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 14
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BOT-03",
+    "sku": "W-BOT-03-6952",
+    "name": "Minimal Silk Bottom",
+    "slug": "minimal-silk-bottom-w-bot-03",
+    "price": 2050,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium silk.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Silk",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bot-03.jpg",
+      "gallery": [
+        "/products/w-bot-03-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Espresso",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 13
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BOT-04",
+    "sku": "W-BOT-04-1243",
+    "name": "Minimal Cashmere Bottom",
+    "slug": "minimal-cashmere-bottom-w-bot-04",
+    "price": 1750,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium cashmere.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cashmere",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bot-04.jpg",
+      "gallery": [
+        "/products/w-bot-04-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 14
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BOT-05",
+    "sku": "W-BOT-05-9827",
+    "name": "Minimal Cashmere Bottom",
+    "slug": "minimal-cashmere-bottom-w-bot-05",
+    "price": 1550,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium cashmere.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cashmere",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bot-05.jpg",
+      "gallery": [
+        "/products/w-bot-05-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BOT-06",
+    "sku": "W-BOT-06-8273",
+    "name": "Double-faced Silk Bottom",
+    "slug": "double-faced-silk-bottom-w-bot-06",
+    "price": 1900,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A double-faced silhouette crafted from premium silk.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Silk",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bot-06.jpg",
+      "gallery": [
+        "/products/w-bot-06-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Espresso",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 7
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BOT-07",
+    "sku": "W-BOT-07-9685",
+    "name": "Double-faced Suede Bottom",
+    "slug": "double-faced-suede-bottom-w-bot-07",
+    "price": 1650,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A double-faced silhouette crafted from premium suede.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Suede",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bot-07.jpg",
+      "gallery": [
+        "/products/w-bot-07-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Taupe",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BOT-08",
+    "sku": "W-BOT-08-7234",
+    "name": "Relaxed Silk Bottom",
+    "slug": "relaxed-silk-bottom-w-bot-08",
+    "price": 1700,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A relaxed silhouette crafted from premium silk.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Silk",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bot-08.jpg",
+      "gallery": [
+        "/products/w-bot-08-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 11
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BOT-09",
+    "sku": "W-BOT-09-2832",
+    "name": "Technical Cotton Poplin Bottom",
+    "slug": "technical-cotton-poplin-bottom-w-bot-09",
+    "price": 1400,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A technical silhouette crafted from premium cotton poplin.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bot-09.jpg",
+      "gallery": [
+        "/products/w-bot-09-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BOT-10",
+    "sku": "W-BOT-10-7717",
+    "name": "Classic Silk Bottom",
+    "slug": "classic-silk-bottom-w-bot-10",
+    "price": 1850,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BOTTOMS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A classic silhouette crafted from premium silk.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Silk",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bot-10.jpg",
+      "gallery": [
+        "/products/w-bot-10-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "S",
+          "M",
+          "L"
+        ],
+        "stock": 11
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-SHO-01",
+    "sku": "W-SHO-01-3287",
+    "name": "Classic Calfskin Shoe",
+    "slug": "classic-calfskin-shoe-w-sho-01",
+    "price": 1100,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A classic silhouette crafted from premium calfskin.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-sho-01.jpg",
+      "gallery": [
+        "/products/w-sho-01-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Taupe",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 5
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-SHO-02",
+    "sku": "W-SHO-02-4247",
+    "name": "Oversized Calfskin Shoe",
+    "slug": "oversized-calfskin-shoe-w-sho-02",
+    "price": 950,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A oversized silhouette crafted from premium calfskin.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-sho-02.jpg",
+      "gallery": [
+        "/products/w-sho-02-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 14
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-SHO-03",
+    "sku": "W-SHO-03-8280",
+    "name": "Fine Linen Shoe",
+    "slug": "fine-linen-shoe-w-sho-03",
+    "price": 1700,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium linen.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-sho-03.jpg",
+      "gallery": [
+        "/products/w-sho-03-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 15
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-SHO-04",
+    "sku": "W-SHO-04-8904",
+    "name": "Soft Linen Shoe",
+    "slug": "soft-linen-shoe-w-sho-04",
+    "price": 1400,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A soft silhouette crafted from premium linen.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-sho-04.jpg",
+      "gallery": [
+        "/products/w-sho-04-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Taupe",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 8
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-SHO-05",
+    "sku": "W-SHO-05-2886",
+    "name": "Technical Cashmere Shoe",
+    "slug": "technical-cashmere-shoe-w-sho-05",
+    "price": 1900,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A technical silhouette crafted from premium cashmere.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cashmere",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-sho-05.jpg",
+      "gallery": [
+        "/products/w-sho-05-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 4
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-SHO-06",
+    "sku": "W-SHO-06-8232",
+    "name": "Soft Nappa Leather Shoe",
+    "slug": "soft-nappa-leather-shoe-w-sho-06",
+    "price": 1900,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A soft silhouette crafted from premium nappa leather.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Nappa Leather",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-sho-06.jpg",
+      "gallery": [
+        "/products/w-sho-06-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 13
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-SHO-07",
+    "sku": "W-SHO-07-3670",
+    "name": "Structured Silk Shoe",
+    "slug": "structured-silk-shoe-w-sho-07",
+    "price": 1200,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A structured silhouette crafted from premium silk.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Silk",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-sho-07.jpg",
+      "gallery": [
+        "/products/w-sho-07-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 13
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-SHO-08",
+    "sku": "W-SHO-08-9566",
+    "name": "Oversized Nappa Leather Shoe",
+    "slug": "oversized-nappa-leather-shoe-w-sho-08",
+    "price": 1750,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A oversized silhouette crafted from premium nappa leather.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Nappa Leather",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-sho-08.jpg",
+      "gallery": [
+        "/products/w-sho-08-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Espresso",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 10
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-SHO-09",
+    "sku": "W-SHO-09-7558",
+    "name": "Technical Calfskin Shoe",
+    "slug": "technical-calfskin-shoe-w-sho-09",
+    "price": 1650,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A technical silhouette crafted from premium calfskin.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-sho-09.jpg",
+      "gallery": [
+        "/products/w-sho-09-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-SHO-10",
+    "sku": "W-SHO-10-1013",
+    "name": "Double-faced Cashmere Shoe",
+    "slug": "double-faced-cashmere-shoe-w-sho-10",
+    "price": 1050,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "SHOES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A double-faced silhouette crafted from premium cashmere.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cashmere",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-sho-10.jpg",
+      "gallery": [
+        "/products/w-sho-10-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "38",
+          "39",
+          "40"
+        ],
+        "stock": 5
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BAG-01",
+    "sku": "W-BAG-01-6003",
+    "name": "Fine Calfskin Bag",
+    "slug": "fine-calfskin-bag-w-bag-01",
+    "price": 4100,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium calfskin.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bag-01.jpg",
+      "gallery": [
+        "/products/w-bag-01-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BAG-02",
+    "sku": "W-BAG-02-7123",
+    "name": "Technical Calfskin Bag",
+    "slug": "technical-calfskin-bag-w-bag-02",
+    "price": 3550,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A technical silhouette crafted from premium calfskin.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bag-02.jpg",
+      "gallery": [
+        "/products/w-bag-02-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 9
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BAG-03",
+    "sku": "W-BAG-03-1218",
+    "name": "Minimal Cotton Poplin Bag",
+    "slug": "minimal-cotton-poplin-bag-w-bag-03",
+    "price": 3750,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A minimal silhouette crafted from premium cotton poplin.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bag-03.jpg",
+      "gallery": [
+        "/products/w-bag-03-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BAG-04",
+    "sku": "W-BAG-04-7549",
+    "name": "Structured Calfskin Bag",
+    "slug": "structured-calfskin-bag-w-bag-04",
+    "price": 4500,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A structured silhouette crafted from premium calfskin.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bag-04.jpg",
+      "gallery": [
+        "/products/w-bag-04-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 14
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BAG-05",
+    "sku": "W-BAG-05-8341",
+    "name": "Oversized Cotton Poplin Bag",
+    "slug": "oversized-cotton-poplin-bag-w-bag-05",
+    "price": 3700,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A oversized silhouette crafted from premium cotton poplin.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bag-05.jpg",
+      "gallery": [
+        "/products/w-bag-05-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BAG-06",
+    "sku": "W-BAG-06-7914",
+    "name": "Tailored Cashmere Bag",
+    "slug": "tailored-cashmere-bag-w-bag-06",
+    "price": 3550,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A tailored silhouette crafted from premium cashmere.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cashmere",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bag-06.jpg",
+      "gallery": [
+        "/products/w-bag-06-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BAG-07",
+    "sku": "W-BAG-07-8422",
+    "name": "Soft Nappa Leather Bag",
+    "slug": "soft-nappa-leather-bag-w-bag-07",
+    "price": 3900,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A soft silhouette crafted from premium nappa leather.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Nappa Leather",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bag-07.jpg",
+      "gallery": [
+        "/products/w-bag-07-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BAG-08",
+    "sku": "W-BAG-08-2357",
+    "name": "Structured Cashmere Bag",
+    "slug": "structured-cashmere-bag-w-bag-08",
+    "price": 4350,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A structured silhouette crafted from premium cashmere.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cashmere",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bag-08.jpg",
+      "gallery": [
+        "/products/w-bag-08-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 6
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BAG-09",
+    "sku": "W-BAG-09-1565",
+    "name": "Fine Calfskin Bag",
+    "slug": "fine-calfskin-bag-w-bag-09",
+    "price": 4500,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium calfskin.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bag-09.jpg",
+      "gallery": [
+        "/products/w-bag-09-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Taupe",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 6
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-BAG-10",
+    "sku": "W-BAG-10-1349",
+    "name": "Relaxed Calfskin Bag",
+    "slug": "relaxed-calfskin-bag-w-bag-10",
+    "price": 4500,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "BAGS",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A relaxed silhouette crafted from premium calfskin.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Calfskin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-bag-10.jpg",
+      "gallery": [
+        "/products/w-bag-10-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 9
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-ACC-01",
+    "sku": "W-ACC-01-6821",
+    "name": "Relaxed Cotton Poplin Item",
+    "slug": "relaxed-cotton-poplin-item-w-acc-01",
+    "price": 500,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A relaxed silhouette crafted from premium cotton poplin.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-acc-01.jpg",
+      "gallery": [
+        "/products/w-acc-01-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Midnight",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 7
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-ACC-02",
+    "sku": "W-ACC-02-6800",
+    "name": "Soft Nappa Leather Item",
+    "slug": "soft-nappa-leather-item-w-acc-02",
+    "price": 1300,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A soft silhouette crafted from premium nappa leather.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Nappa Leather",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-acc-02.jpg",
+      "gallery": [
+        "/products/w-acc-02-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 2
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-ACC-03",
+    "sku": "W-ACC-03-1631",
+    "name": "Fine Virgin Wool Item",
+    "slug": "fine-virgin-wool-item-w-acc-03",
+    "price": 1400,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium virgin wool.",
+      "origin": "Made in USA",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Virgin Wool",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-acc-03.jpg",
+      "gallery": [
+        "/products/w-acc-03-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 5
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-ACC-04",
+    "sku": "W-ACC-04-7881",
+    "name": "Soft Virgin Wool Item",
+    "slug": "soft-virgin-wool-item-w-acc-04",
+    "price": 900,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A soft silhouette crafted from premium virgin wool.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Virgin Wool",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-acc-04.jpg",
+      "gallery": [
+        "/products/w-acc-04-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 4
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-ACC-05",
+    "sku": "W-ACC-05-9486",
+    "name": "Oversized Cotton Poplin Item",
+    "slug": "oversized-cotton-poplin-item-w-acc-05",
+    "price": 950,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A oversized silhouette crafted from premium cotton poplin.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Cotton Poplin",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-acc-05.jpg",
+      "gallery": [
+        "/products/w-acc-05-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Black",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 12
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-ACC-06",
+    "sku": "W-ACC-06-9471",
+    "name": "Oversized Linen Item",
+    "slug": "oversized-linen-item-w-acc-06",
+    "price": 1050,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A oversized silhouette crafted from premium linen.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-acc-06.jpg",
+      "gallery": [
+        "/products/w-acc-06-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 4
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-ACC-07",
+    "sku": "W-ACC-07-7755",
+    "name": "Fine Suede Item",
+    "slug": "fine-suede-item-w-acc-07",
+    "price": 450,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A fine silhouette crafted from premium suede.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Suede",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-acc-07.jpg",
+      "gallery": [
+        "/products/w-acc-07-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Oatmeal",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 5
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-ACC-08",
+    "sku": "W-ACC-08-3105",
+    "name": "Oversized Suede Item",
+    "slug": "oversized-suede-item-w-acc-08",
+    "price": 1350,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A oversized silhouette crafted from premium suede.",
+      "origin": "Made in Italy",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Suede",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-acc-08.jpg",
+      "gallery": [
+        "/products/w-acc-08-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Ivory",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 13
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-ACC-09",
+    "sku": "W-ACC-09-3692",
+    "name": "Relaxed Silk Item",
+    "slug": "relaxed-silk-item-w-acc-09",
+    "price": 750,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A relaxed silhouette crafted from premium silk.",
+      "origin": "Made in France",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Silk",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-acc-09.jpg",
+      "gallery": [
+        "/products/w-acc-09-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Slate",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 9
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": "W-ACC-10",
+    "sku": "W-ACC-10-2776",
+    "name": "Tailored Linen Item",
+    "slug": "tailored-linen-item-w-acc-10",
+    "price": 850,
+    "currency": "USD",
+    "gender": "WOMEN",
+    "category": "ACCESSORIES",
+    "collection": "Permanent Collection",
+    "details": {
+      "description": "A tailored silhouette crafted from premium linen.",
+      "origin": "Made in Japan",
+      "care": "Professional dry clean only",
+      "materials": [
+        {
+          "type": "Linen",
+          "value": 100
+        }
+      ]
+    },
+    "media": {
+      "featured": "/products/w-acc-10.jpg",
+      "gallery": [
+        "/products/w-acc-10-alt.jpg"
+      ]
+    },
+    "variants": [
+      {
+        "color": "Chalk",
+        "sizes": [
+          "OS"
+        ],
+        "stock": 8
+      }
+    ],
+    "metadata": {
+      "createdAt": "2026-05-10T00:00:00Z"
+    }
+  }
+]
